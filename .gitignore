@@ -1,0 +1,46 @@
+# Byte-compiled files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Virtual environments
+env/
+venv/
+ENV/
+.venv/
+
+# Distribution/Packaging
+build/
+dist/
+*.egg-info/
+
+# IDE/Editor-specific files
+.vscode/
+.idea/
+*.iml
+
+# Test and coverage reports
+.coverage
+*.coveragerc
+nosetests.xml
+coverage.xml
+*.hypothesis/
+
+# Python-specific config files
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Pytest
+.cache/
+
+# Logs
+*.log
+
+# .env or .env files (for environment variables)
+.env
+*.env
